@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/0197-rising-temperature/) | Easy |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/0577-employee-bonus/) | Easy |
 | [1280-students-and-examinations](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/1280-students-and-examinations/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
