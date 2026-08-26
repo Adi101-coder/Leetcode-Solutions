@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0620-not-boring-movies](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1075-project-employees-i](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/1075-project-employees-i/) | Easy |
+| [1193-monthly-transactions-i](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/1280-students-and-examinations/) | Easy |
