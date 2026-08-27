@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0550-game-play-analysis-iv](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/0577-employee-bonus/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0620-not-boring-movies](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1075-project-employees-i](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/1075-project-employees-i/) | Easy |
