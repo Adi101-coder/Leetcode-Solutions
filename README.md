@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0180-consecutive-numbers](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/0180-consecutive-numbers/) | Medium |
+| [0196-delete-duplicate-emails](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
