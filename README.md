@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1661-average-time-of-process-per-machine](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1729-find-followers-count](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
+| [1789-primary-department-for-each-employee](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1934-confirmation-rate](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/1934-confirmation-rate/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Adi101-coder/Leetcode-Solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Array
