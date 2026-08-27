@@ -1,4 +1,3 @@
-# Write your MySQL 
 SELECT user_id,
 CONCAT(
     UPPER(LEFT(name,1)),
